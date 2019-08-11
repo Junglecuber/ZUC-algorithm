@@ -28,7 +28,7 @@ module ZucCore(
     input   [127:0]  KEY, // K0 to K15
     input   [127:0]  IV,  // IV0 to IV15
     output  [31:0]   Z, // keystream
-    output  reg     Done
+    output  reg      Done
     );
 
     reg     [1:0]    State;
