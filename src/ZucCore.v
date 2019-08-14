@@ -6,14 +6,14 @@
 //     as authorized by a licensing agreement from Data Assurance & Communications Security Center.
 //     In the event of publication, the following notice is applicable:
 //
-//                    (C) COPYRIGHT 2009 - 2017 DCS Center.
+//                    (C) COPYRIGHT 2009 - 2019 DCS Center.
 //                           ALL RIGHTS RESERVED
 //
 // The entire notice above must be reproduced on all authorized copies.
 //
 // AUTHOR:    Junglecuber 19.8.10
 //
-// VERSION:   Verilog-v1.0
+// VERSION:   Verilog
 //
 //
 ////////////////////////////////////////////////////////////////////////////////
